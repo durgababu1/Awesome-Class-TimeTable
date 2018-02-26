@@ -9,3 +9,9 @@ I was sick of going though the time table document (awfully structured  :tired_f
 ![alt text](https://raw.githubusercontent.com/bksahu/Awesome-Class-TimeTable/master/images/2.png)
 
 This app is hosted using gh-pages at https://bksahu.github.io/Awesome-Class-TimeTable/.
+
+## Want to create a similar time table for yourself ?
+
+Then check out this tutorial :smile:
+
+[![IMAGE ALT TEXT HERE](https://i.ytimg.com/vi/Uahkwlh1ylA/hqdefault.jpg?sqp=-oaymwEXCPYBEIoBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLDm1XGTXP7o-_gBvPc9KvfG4EsP4A)](https://www.youtube.com/watch?v=Uahkwlh1ylA) 
