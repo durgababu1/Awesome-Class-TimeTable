@@ -5,36 +5,36 @@ function countdown(){
     Mon: {
       10: "MPMC(LSPR, CR6)",
       11: "MATH-IV(RRP,CR6)",
-      12: "DBMS(DD, CR6)",
-      14: "DBMS Lab (DD, PL1)"
+      12: "EEC(SD, CR4)",
+      14: "MP Lab (LSPR, PL3)"
     },
     Tue: {
-      9: "OS(MP, CR5)",
+      9: "EM II(SU, CR11)",
       10: "MATH IV(RRP,CR6)",
-      11: "POC(PS, CR6)",
-      14: "MP Lab(LSPR, PL3)"
+      12: "EMT (VN, CR1)"
+      14: "EM II Lab(SU AP, MACHINE LAB)"
     },
     Wed: {
       9: "MPMC(LSPR, CR6)",
-      10: "OS(MP, CR5)",
-      11: "DBMS(DD, CR5)",
-      12: "POC(PS, CR5)"
+      10: "EMT(VM, CR6)",
+      11: "EM II(DSU, CR6)",
+      12: "EEC(SD, CR6)"
     },
     Thu: {
-      9: "OS(MP, CR5)",
-      10: "MATH-IV(RRP, CR6)",
-      11: "POC(PS, CR6)"
+      9: "EEC(SD, CR2)",
+      10: "MATH-IV(RRP, CR6)"
     },
     Fri: {
       9: "MATH-IV(RRP,CR5)",
       10: "MPMC(LSPR,CR6)",
-      11: "DBMS(DD, CR6)"
+      11: "EMT(VM, CR3)"
+      12: "EEC(SD, CR8)"
+      14: "EM II(SU, CR8)"
     },
     Sat: {
-      9: "DBMS(DD,CR5)",
+      9: "EMT(VM,CR6)",
       10: "MPMC(LSPR,CR6)",
-      11: "OS(MP, CR6)",
-      14: "POC(PS,CR1)"
+      11: "EM II(SU, CR11)",
     },
     Sun: {}
   }
