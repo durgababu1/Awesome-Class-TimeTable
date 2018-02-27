@@ -11,6 +11,7 @@ function countdown(){
     Tue: {
       9: "EM II(SU, CR11)",
       10: "MATH IV(RRP,CR6)",
+      11: "NO CLASS"
       12: "EMT (VN, CR1)"
       14: "EM II Lab(SU AP, MACHINE LAB)"
     },
